@@ -11,7 +11,7 @@ A simple, single Makefile, build system for small C++ multi-file projects.
 4) To build your project, simply run 'make' in the top-most directory of your project.
 
 ### Option B)
-Copy the 'SampleProject' directory and use it as a template for your project.
-Your .cpp files go in 'SampleProject/src'
-Your header files go in 'SampleProject/include'
-To build your project, simply run 'make' in SampleProject.
+Copy the 'SampleProject' directory and use it as a template for your project.</br>
+Your .cpp files go in 'SampleProject/src'.</br>
+Your header files go in 'SampleProject/include'.</br>
+To build your project, simply run 'make' in SampleProject.</br>
